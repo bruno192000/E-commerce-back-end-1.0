@@ -24,6 +24,8 @@
   <ol>write source "use ecommerce_db"</ol>
   <ol>write "quit"</ol>
   <ol>write "node seeds/index.js"</ol>
+
+  <p>here is a video that will help you with this part, just click <a href = "https://drive.google.com/file/d/1k5Gg3Tacz0GDk4sgnMReWfMFIfObNRY2/view"> HERE!</a> </p>
   
   ## Usage
   Just type "node server.js" in your terminal. After that, terminal will show the port number.
